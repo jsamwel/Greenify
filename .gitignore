@@ -112,3 +112,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Arduino secrets
+ArduinoSketch/arduino_secrets.h
