@@ -115,3 +115,4 @@ dmypy.json
 
 # Arduino secrets
 ArduinoSketch/arduino_secrets.h
+SketchClasses/arduino_secrets.h
